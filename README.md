@@ -1,6 +1,6 @@
 Project name:  
 ====================
-Movie Trailer  
+Movie Trailer, It let you open a list of movies in your browser and show their trailers  
 
 Prerequisite:  
 ====================
@@ -22,5 +22,7 @@ Files explanation
   
   How to run it:  
 ====================
-
-Just double click on toy_story.py file  
+**There are two methods to run it**  
+**1st** Run toy_story.py file   
+**2nd** Right click on the toy_story.py and press Edit with IDLE then press F5  
+or you can press from navigation bar Run then Run Module
